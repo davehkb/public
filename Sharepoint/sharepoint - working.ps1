@@ -1,4 +1,4 @@
-﻿#Connect-SPOService -Url https://versaterminc-admin.sharepoint.com
+﻿#Connect-SPOService -Url <Admin SHarepoint site>
 clear
 #purpose of this script is to use the provided list C:/temp/enabled.csv and remove the "Everyone Except External" user, while also adding another User to that site.
 
